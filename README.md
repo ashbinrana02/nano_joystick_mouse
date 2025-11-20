@@ -26,6 +26,6 @@ A button on the joystick is used for left-click.
 ---
 
 # Software Used
-- ([Arduino IDE](https://www.arduino.cc/en/software/))
-- ([pyautogui Library] (https://pyautogui.readthedocs.io/en/latest/index.html))
-- ([pyserial library] ([text](https://pyserial.readthedocs.io/en/latest/index.html)))
+- [Arduino IDE](https://www.arduino.cc/en/software/)
+- [pyautogui Library](https://pyautogui.readthedocs.io/en/latest/index.html)
+- ([pyserial library](https://pyserial.readthedocs.io/en/latest/index.html))
