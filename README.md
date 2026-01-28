@@ -29,3 +29,7 @@ A button on the joystick is used for left-click.
 - [Arduino IDE](https://www.arduino.cc/en/software/)
 - [pyautogui Library](https://pyautogui.readthedocs.io/en/latest/index.html)
 - ([pyserial library](https://pyserial.readthedocs.io/en/latest/index.html))
+
+
+# To use
+- Make sure the com port defined in the python script is the same com port that the arduino appers as on the computer
